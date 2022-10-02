@@ -4,7 +4,7 @@ I’m software engineer with focus on full-stack development. Working to create 
 
 <div style="font-size:30px">📫   My <a href="https://www.linkedin.com/in/aleksis-kvjatkovskis/" target="_blank">LinkedIn</a></div>
 
----
+<hr>
 <div style="font-size:30px">🧰 Languages and Tools: </div>
 
 ---
