@@ -7,7 +7,7 @@ I’m software engineer with focus on full-stack development. Working to create 
 
 <img src="https://data.whicdn.com/images/347592667/original.gif" width="30px">My <a href="https://www.linkedin.com/in/aleksis-kvjatkovskis/" target="_blank">LinkedIn</a></div>
 
-<div style="font-size:30px"><img src="https://i.pinimg.com/originals/d0/63/09/d063096ba4e07795c1bdf98572cb79a8.gif" width="30px">Languages and Tools: </div>
+<div style="font-size:30px"><img src="https://media4.giphy.com/media/cVL2ytfkh5m7cHWW8y/giphy.gif?cid=790b761190f81909543f3e3e0a98febd28743380e9851866&rid=giphy.gif&ct=s" width="30px">Languages and Tools: </div>
 
 ---
 
