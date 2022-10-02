@@ -4,7 +4,8 @@ I’m software engineer with focus on full-stack development. Working to create 
 
 📫   My <a href="https://www.linkedin.com/in/aleksis-kvjatkovskis/" target="_blank">LinkedIn</a>
 ---
-🧰 Languages and Tools:
+<div style="font-size:30px">🧰 Languages and Tools: </div>
+
 
 ---
 
