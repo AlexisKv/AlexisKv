@@ -1,4 +1,4 @@
-### Hey 👋, I'm Aleksis Kvjatkovskis!
+### Hey <img src="https://i.pinimg.com/originals/51/12/5d/51125d9904b0aab078e2f7d0cbf37d8a.gif" width="30px">, I'm Aleksis Kvjatkovskis!
 
 I’m software engineer with focus on full-stack development. Working to create high-quality code. Ability to build, test, and deploy web applications. Self-motivated with the ability to work both independently and in a team environment.
 
