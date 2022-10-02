@@ -15,5 +15,10 @@ I’m software engineer with focus on full-stack development. Working to create 
 
 ---
 
-![Stats Overview](https://github.com/AlexisKv/github-stats-transparent/blob/output/generated/overview.svg)
-![Most Used Languages](https://github.com/AlexisKv/github-stats-transparent/blob/output/generated/languages.svg)
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<AlexisKv>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<AlexisKv>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
