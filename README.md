@@ -1,4 +1,4 @@
-### Hey, I'm Aleksis Kvjatkovskis!<img src="https://c.tenor.com/0gAcYpqSG5QAAAAM/bring-it-are-you-ready.gif" width="100px">
+### Hey, I'm Aleksis Kvjatkovskis!
 
 I’m software engineer with focus on full-stack development. Working to create high-quality code. Ability to build, test, and deploy web applications. Self-motivated with the ability to work both independently and in a team environment.
 
@@ -6,7 +6,7 @@ I’m software engineer with focus on full-stack development. Working to create 
 <img src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif" width="30px"> You can checkout my projects <a href="https://github.com/AlexisKv?tab=repositories" target="_blank">here</a></div>
 
 
-<div style="font-size:30px"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="30px"> My <a href="https://www.linkedin.com/in/aleksis-kvjatkovskis/" target="_blank">LinkedIn</a></div>
+<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="30px" <div style="font-size:30px"> width="30px"> My <a href="https://www.linkedin.com/in/aleksis-kvjatkovskis/" target="_blank">LinkedIn</a></div>
 
 ---
 <div style="font-size:30px">🧰 Languages and Tools: </div>
