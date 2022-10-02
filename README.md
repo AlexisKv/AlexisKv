@@ -1,4 +1,4 @@
-### Hey <img src="https://c.tenor.com/0gAcYpqSG5QAAAAM/bring-it-are-you-ready.gif" width="50px">, I'm Aleksis Kvjatkovskis!
+### Hey, I'm Aleksis Kvjatkovskis!<img src="https://c.tenor.com/0gAcYpqSG5QAAAAM/bring-it-are-you-ready.gif" width="100px">
 
 I’m software engineer with focus on full-stack development. Working to create high-quality code. Ability to build, test, and deploy web applications. Self-motivated with the ability to work both independently and in a team environment.
 
