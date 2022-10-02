@@ -2,7 +2,7 @@
 
 I’m software engineer with focus on full-stack development.
 
-📫   My <a href="https://github.com/AlexisKv" target="_blank">LinkedIn</a>
+📫   My <a href="https://www.linkedin.com/in/aleksis-kvjatkovskis/" target="_blank">LinkedIn</a>
 ---
 🧰 Languages and Tools:
 
