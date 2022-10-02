@@ -1,4 +1,4 @@
-### Hey <img src="https://www.clipartmax.com/middle/m2H7H7K9Z5i8G6N4_a-smiling-minion-raises-one-hand-to-wave-hello-thomas-edison-gif/" width="30px">, I'm Aleksis Kvjatkovskis!
+### Hey <img src="https://www.clipartmax.com/png/small/283-2837537_a-smiling-minion-raises-one-hand-to-wave-hello-thomas-edison-gif.png" width="50px">, I'm Aleksis Kvjatkovskis!
 
 I’m software engineer with focus on full-stack development. Working to create high-quality code. Ability to build, test, and deploy web applications. Self-motivated with the ability to work both independently and in a team environment.
 
