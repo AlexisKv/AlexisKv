@@ -1,8 +1,9 @@
 ### Hey 👋, I'm Aleksis Kvjatkovskis!
 
 I’m software engineer with focus on full-stack development. Working to create high-quality code. Ability to build, test, and deploy web applications. Self-motivated with the ability to work both independently and in a team environment.
+<div style="font-size:30px">📫   My <a href="https://www.linkedin.com/in/aleksis-kvjatkovskis/" target="_blank">LinkedIn</a></div>
 
-📫   My <a href="https://www.linkedin.com/in/aleksis-kvjatkovskis/" target="_blank">LinkedIn</a>
+
 ---
 <div style="font-size:30px">🧰 Languages and Tools: </div>
 
