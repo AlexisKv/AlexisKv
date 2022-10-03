@@ -18,5 +18,7 @@ I’m software engineer with focus on full-stack development. Working to create 
 
 ## &#x1f4c8; My GitHub Stats
 
-![](https://raw.githubusercontent.com/AlexisKv/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AlexisKv/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/AlexisKv/Statistic/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AlexisKv/Statistic/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/AlexisKv/Statistic/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AlexisKv/Statistic/master/generated/languages.svg#gh-light-mode-only)
