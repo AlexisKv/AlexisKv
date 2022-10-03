@@ -18,7 +18,5 @@ I’m software engineer with focus on full-stack development. Working to create 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<AlexisKv>&hide=java,html,css&theme=radical)](https://github.com/AlexisKv/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<AlexisKv>&theme=radical)](https://github.com/AlexisKv/github-readme-stats)
-
+![](https://raw.githubusercontent.com/AlexisKv/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AlexisKv/github-stats/master/generated/languages.svg#gh-light-mode-only)
