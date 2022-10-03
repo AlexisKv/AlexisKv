@@ -1,13 +1,13 @@
-### Hey, I'm Aleksis Kvjatkovskis!
+### <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Hi there! I'm Aleksis Kvjatkovskis!
 
 I’m a software engineer with a focus on full-stack development. Working to create high-quality code. Ability to build, test, and deploy web applications. Self-motivated with the ability to work both independently and in a team environment.
 
 
-<img src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif" width="30px"> You can check out my projects <a href="https://github.com/AlexisKv?tab=repositories" target="_blank">here</a></div>
+<img src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif" width="30px"> You can check out my <a href="https://github.com/AlexisKv?tab=repositories" target="_blank">projects</a></div>
 
-<img src="https://thumbs.gfycat.com/GiganticDazzlingAxolotl-max-1mb.gif" width="30px">My <a href="https://www.linkedin.com/in/aleksis-kvjatkovskis/" target="_blank">LinkedIn</a></div>
+<img src="https://media3.giphy.com/media/W1NW6AaPglSMRnP2Qv/giphy.gif?cid=6c09b9522iqukk1b8xu3qgjggl3i3pb2v80bstjbe8ihays8&rid=giphy.gif&ct=s" width="30px">My <a href="https://www.linkedin.com/in/aleksis-kvjatkovskis/" target="_blank">LinkedIn</a></div>
 
-<div style="font-size:30px"><img src="https://cdn1.thesculptedvegan.com/wp-content/uploads/2020/05/07151301/Arrows-3-pointing-down-arrow-down-animated.gif" width="29px">Languages and Tools <img src="https://cdn1.thesculptedvegan.com/wp-content/uploads/2020/05/07151301/Arrows-3-pointing-down-arrow-down-animated.gif" width="29px"></div>
+<div style="font-size:30px"><img src="https://i.pinimg.com/originals/a8/07/4e/a8074e95d5f7f8d65205bb77e0546b63.gif" width="29px">Languages and Tools: </div>
 
 ---
 
