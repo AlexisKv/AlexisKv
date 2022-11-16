@@ -3,7 +3,7 @@
 I’m a software engineer with a focus on full-stack development. Working to create high-quality code. Ability to build, test, and deploy web applications. Self-motivated with the ability to work both independently and in a team environment.
 
 
-<img src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif" width="30px"> You can check out my <a href="https://github.com/AlexisKv?tab=repositories" target="_blank">projects</a></div>
+<img src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif" width="30px"> You can check out my <a href="https://github.com/AlexisKv?tab=stars" target="_blank">projects</a></div>
 
 <img src="https://media3.giphy.com/media/W1NW6AaPglSMRnP2Qv/giphy.gif?cid=6c09b9522iqukk1b8xu3qgjggl3i3pb2v80bstjbe8ihays8&rid=giphy.gif&ct=s" width="30px">My <a href="https://www.linkedin.com/in/aleksis-kvjatkovskis/" target="_blank">LinkedIn</a></div>
 
